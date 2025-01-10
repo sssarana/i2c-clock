@@ -1,4 +1,4 @@
-# I2C clock using HT16K33 and ATTiny
+# I2C clock using HT16K33 and ATtiny
 
 ## Setup
 1. Recreate a circuit in Tinkercad
